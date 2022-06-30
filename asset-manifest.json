@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/polygongallery/static/css/main.073c9b0a.css",
+    "main.js": "/polygongallery/static/js/main.0ea22f03.js",
+    "static/js/787.855c1d24.chunk.js": "/polygongallery/static/js/787.855c1d24.chunk.js",
+    "index.html": "/polygongallery/index.html",
+    "static/media/logo.svg": "/polygongallery/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.073c9b0a.css.map": "/polygongallery/static/css/main.073c9b0a.css.map",
+    "main.0ea22f03.js.map": "/polygongallery/static/js/main.0ea22f03.js.map",
+    "787.855c1d24.chunk.js.map": "/polygongallery/static/js/787.855c1d24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0ea22f03.js"
+  ]
+}
